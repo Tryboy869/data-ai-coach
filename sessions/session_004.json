@@ -1,0 +1,21 @@
+{
+  "session_id": 4,
+  "timestamp": "2025-09-21T08:50:58.701351",
+  "experimental_modes": [
+    "pressing_adaptatif",
+    "asymetrie_calculée"
+  ],
+  "matches": [
+    {
+      "match_id": 1,
+      "mode": "pressing_adaptatif",
+      "score": "0-0",
+      "decisions": 6,
+      "innovations": 0,
+      "events": 4
+    }
+  ],
+  "total_decisions": 6,
+  "innovations_discovered": [],
+  "performance_insights": "Session 4: 1 matchs, 6 décisions, 0 innovations testées."
+}
