@@ -1,0 +1,199 @@
+{
+  "session_id": 1,
+  "timestamp_start": "2025-09-21T09:12:37.641821",
+  "model": "llama-3.3-70b-versatile",
+  "matches": [
+    {
+      "match_id": 1,
+      "mode": "pressing_adaptatif",
+      "score_final": "2-3",
+      "decisions_prises": 6,
+      "innovations_trackées": 6,
+      "log_evenements": [
+        "4' 🎯 Grosse occasion pour l'équipe domicile !",
+        "5' ⚽ BUT! L'équipe domicile marque ! (1-0)",
+        "7' 🎯 Grosse occasion pour l'équipe domicile !",
+        "22' 🎯 Grosse occasion pour l'équipe domicile !",
+        "25' ⚽ BUT! L'équipe extérieure marque. (1-1)",
+        "35' 🔄 ADAPTATION EXPÉRIMENTALE: Activation pressing temporel (3min)",
+        "39' ⚽ BUT! L'équipe extérieure marque. (1-2)",
+        "55' 🔄 ADAPTATION EXPÉRIMENTALE: Réduction intensité pour récupération",
+        "57' 🎯 Grosse occasion pour l'équipe domicile !",
+        "59' 🟥 CARTON ROUGE! L'adversaire est réduit à 10 !",
+        "64' 🟥 CARTON ROUGE! L'adversaire est réduit à 10 !",
+        "69' ⚽ BUT! L'équipe domicile marque ! (2-2)",
+        "70' 🎯 Grosse occasion pour l'équipe domicile !",
+        "82' ⚽ BUT! L'équipe extérieure marque. (2-3)"
+      ],
+      "log_decisions_ia": [
+        {
+          "action": "INNOVATION",
+          "details": "Introduction d'un schéma de jeu asynchrone où les joueurs changent de position de manière aléatoire et imprévisible, créant ainsi une instabilité tactique chez l'adversaire et des opportunités inattendues pour notre équipe",
+          "raison": "Rompre la prévisibilité de notre jeu pour surprendre l'adversaire et maintenir l'élan offensif",
+          "innovation_score": 8,
+          "minute": 15
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Introduire un système de pressing adaptatif asynchrone, où les joueurs du milieu de terrain pressent haut tandis que les défenseurs restent plus bas et prêts à contre-attaquer, tout en faisant pivoter les ailiers pour créer des triangles de pression variables",
+          "raison": "En exploitant les faiblesses de l'adversaire dans la gestion du pressing, nous pouvons créer des occasions de but et prendre le contrôle du match",
+          "innovation_score": 8,
+          "minute": 30
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Introduire un système de pressing polyvalent qui combine des éléments de pressing haute intensité avec des périodes de pressing plus bas et plus stratégique, en fonction de la position de l'adversaire sur le terrain et de son niveau de fatigue. Cela sera associé à une rotation constante des joueurs pour maintenir la fraîcheur et créer de la confusion chez l'équipe adverse.",
+          "raison": "L'objectif est de déséquilibrer l'adversaire en créant des opportunités offensives par la récupération du ballon haut sur le terrain tout en préservant l'énergie de l'équipe",
+          "innovation_score": 8,
+          "minute": 45
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Mise en place d'un système de pressing adaptatif asymétrique, avec un milieu de terrain gauche qui joue très haut pour harceler l'adversaire, tandis que le milieu de terrain droit reste plus bas pour couvrir les espaces et protéger contre les contre-attaques. Introduction d'un 'libero' offensif derrière les deux attaquants pour créer des triangles de jeu et des opportunités de passes pénétrantes",
+          "raison": "Exploiter la vulnérabilité de l'adversaire à 10 joueurs en appliquant une pression intensive et en créant des déséquilibres tactiques pour générer des occasions de but",
+          "innovation_score": 8,
+          "minute": 60
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Je vais introduire un système de 'libero' offensif où l'un de nos défenseurs centraux, le plus technique, jouera comme un milieu de terrain offensif supplémentaire, libéré de ses responsabilités défensives traditionnelles, pour surcharger le milieu de terrain et créer des opportunités de scoring.",
+          "raison": "Exploiter la supériorité numérique après le carton rouge de l'adversaire et créer un déséquilibre tactique en ajoutant une menace offensive de plus sans compromettre la solidité défensive.",
+          "innovation_score": 8,
+          "minute": 75
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Introduction d'un schéma de pressing adaptatif asynchrone, où les défenseurs et les milieux de terrain pressent de manière désynchronisée pour perturber la sortie de balle de l'adversaire, tandis que les attaquants utilisent un mouvement en diagonale pour créer des espaces behind la défense",
+          "raison": "Créer un déséquilibre défensif chez l'adversaire en exploitant leur fatigue élevée et notre momentum pour créer une occasion de but",
+          "innovation_score": 8,
+          "minute": 90
+        }
+      ]
+    },
+    {
+      "match_id": 2,
+      "mode": "asymetrie_calculée",
+      "score_final": "0-2",
+      "decisions_prises": 6,
+      "innovations_trackées": 8,
+      "log_evenements": [
+        "31' 💡 INNOVATION TACTIQUE: Double pivot rotatif",
+        "53' ⚽ BUT! L'équipe extérieure marque. (0-1)",
+        "63' 🟥 CARTON ROUGE! L'adversaire est réduit à 10 !",
+        "76' 🟥 CARTON ROUGE! L'adversaire est réduit à 10 !",
+        "78' ⚽ BUT! L'équipe extérieure marque. (0-2)",
+        "82' 💡 INNOVATION TACTIQUE: Double pivot rotatif",
+        "86' 🔄 ADAPTATION EXPÉRIMENTALE: Surcharge surprise du côté fort"
+      ],
+      "log_decisions_ia": [
+        {
+          "action": "INNOVATION",
+          "details": "Implémentation d'un schéma de jeu asymétrique avec un milieu de terrain en losange, un attaquant faux 9 et un arrière gauche qui joue comme un milieu gauche offensif, créant ainsi des options de passes et des mouvements inattendus pour déstabiliser la défense adverse",
+          "raison": "Créer une supériorité numérique et positionnelle dans les zones clés du terrain en exploitant les faiblesses potentielles de la défense adverse",
+          "innovation_score": 8,
+          "minute": 15
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Introduction d'un système de jeu asymétrique avec un défenseur libéro qui peut occuper des positions avancées pour surprendre l'adversaire, tandis que les autres défenseurs assurent une défense plus traditionnelle et solide",
+          "raison": "Créer une dualité tactique pour perturber la lecture du jeu adverse et générer des opportunités d'attaque inattendues",
+          "innovation_score": 8,
+          "minute": 30
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Introduction d'un système de jeu en 3-4-3 asymétrique avec un latéral droit offensif qui joue plus haut que le latéral gauche, créant une surcharge sur le côté droit pour déstabiliser la défense adverse, tandis que le latéral gauche reste plus bas pour assurer la sécurité et la profondeur",
+          "raison": "Exploiter les espaces créés par la mobilité et la flexibilité de mon équipe pour surprendre l'adversaire et prendre l'initiative",
+          "innovation_score": 8,
+          "minute": 45
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Introduire un système de 'libero' offensif, où un défenseur central joue plus haut que les milieux de terrain, créant une surprise tactique et potentiellement déstabilisant la défense adverse",
+          "raison": "Pour contre-attaquer la pression adverse en créant une nouvelle menace offensive inattendue",
+          "innovation_score": 8,
+          "minute": 60
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Implémentation d'un système de 'pression asymétrique', où les joueurs latéraux de l'équipe pressent haut sur un côté du terrain tandis que le milieu de terrain reste plus bas sur l'autre côté, créant ainsi des surcharges numériques pour surprendre l'adversaire réduit à 10 joueurs",
+          "raison": "L'utilisation de l'asymétrie pour créer des dilemmes tactiques chez l'adversaire et exploiter les espaces laissés vacants par leur réduction numérique",
+          "innovation_score": 8,
+          "minute": 75
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Implémenter un système de 'libero' flottant en défense centrale, permettant à un défenseur de jouer en liberté et de créer des opportunités de contre-attaque en pressant haut et en utilisant l'espace laissé par l'adversaire pour contre-attaquer",
+          "raison": "Exploiter la fatigue accrue de l'équipe adverse pour créer des déséquilibres défensifs et surprendre leur système de marque",
+          "innovation_score": 8,
+          "minute": 90
+        }
+      ]
+    },
+    {
+      "match_id": 3,
+      "mode": "pressing_adaptatif",
+      "score_final": "3-0",
+      "decisions_prises": 6,
+      "innovations_trackées": 8,
+      "log_evenements": [
+        "1' 🎯 Grosse occasion pour l'équipe domicile !",
+        "27' 💡 INNOVATION TACTIQUE: Pressing en souricière",
+        "49' 🟥 CARTON ROUGE! L'adversaire est réduit à 10 !",
+        "57' ⚽ BUT! L'équipe domicile marque ! (1-0)",
+        "58' 💡 INNOVATION TACTIQUE: Pressing en souricière",
+        "61' 🎯 Grosse occasion pour l'équipe domicile !",
+        "88' ⚽ BUT! L'équipe domicile marque ! (2-0)",
+        "89' ⚽ BUT! L'équipe domicile marque ! (3-0)"
+      ],
+      "log_decisions_ia": [
+        {
+          "action": "INNOVATION",
+          "details": "Implémentation d'un système de pressing adaptatif qui intègre des mouvements de faux neuvièmes pour créer des surplus numériques dans les zones stratégiques du terrain, en utilisant des joueurs polyvalents capables de basculer entre différents rôles pour déstabiliser la défense adverse",
+          "raison": "L'adversaire est légèrement plus fatigué, ce qui rend ce moment propice pour imposer un rythme élevé et créer des occasions de but par la surprise tactique",
+          "innovation_score": 8,
+          "minute": 15
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Introduction d'un 'libéro' offensif qui joue derrière les défenseurs adverses, créant un triangle de pression avec les deux attaquants pour acculer l'adversaire à jouer long, tout en laissant un espace derrière pour une contre-attaque éclair",
+          "raison": "Créer un déséquilibre défensif en ajoutant une variable inattendue qui force l'adversaire à réajuster son dispositif défensif",
+          "innovation_score": 8,
+          "minute": 30
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Introduire un système de 'libero' offensif, où l'un des défenseurs centraux joue un rôle plus avancé, agissant comme un créateur de jeu derrière les attaquants, tout en maintenant une pression élevée pour harceler l'adversaire et gagner le ballon plus haut sur le terrain",
+          "raison": "L'adversaire étant légèrement plus fatigué et le momentum étant en notre faveur, il est temps d'intensifier la pression et de créer des opportunités de contre-attaque rapides",
+          "innovation_score": 8,
+          "minute": 45
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Mettre en place un système de 'libéro volant' qui combine les principes du pressing adaptatif avec la mobilité d'un libero, pour créer des opportunités de contre-attaques rapides tout en maintenant la pression défensive",
+          "raison": "Exploiter la supériorité numérique pour créer un déséquilibre tactique en faisant évoluer notre défense en une formation plus fluide et agressive",
+          "innovation_score": 8,
+          "minute": 60
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Mise en place d'un schéma de jeu hybride, combinant le pressing adaptatif avec une défense en ligne haute qui incorpore des principes de contre-pressing, visant à piéger l'adversaire dans son propre camp et à créer des opportunités de contre-attaque rapides",
+          "raison": "En augmentant la pression sur l'adversaire tout en maintenant une défense solide, nous pouvons accroître les chances de marquer un deuxième but tout en minimisant les risques de contre-attaque",
+          "innovation_score": 8,
+          "minute": 75
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Lancement d'un dispositif de contre-pression anticipée en utilisant les deux ailiers pour créer un étau pressant sur les défenseurs adverses, forçant l'adversaire à jouer long et permettant ainsi à notre équipe de récupérer le ballon rapidement pour créer une nouvelle occasion de but",
+          "raison": "En exploitant la fatigue élevée de l'équipe adverse et notre momentum actuel, nous pouvons accentuer notre pression pour tuer le match tout en testant notre capacité à adapter notre jeu en fonction des réactions de l'adversaire",
+          "innovation_score": 8,
+          "minute": 90
+        }
+      ]
+    }
+  ],
+  "total_decisions": 18,
+  "total_innovations": 22,
+  "timestamp_end": "2025-09-21T09:13:09.851953",
+  "performance_insights": "Session 1 terminée avec 3 matchs. Un total de 22 innovations a été testé sur 18 décisions."
+}
