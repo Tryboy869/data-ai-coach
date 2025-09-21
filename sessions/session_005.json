@@ -1,0 +1,29 @@
+{
+  "session_id": 5,
+  "timestamp": "2025-09-21T08:53:01.666815",
+  "experimental_modes": [
+    "pressing_adaptatif",
+    "asymetrie_calculée"
+  ],
+  "matches": [
+    {
+      "match_id": 1,
+      "mode": "pressing_adaptatif",
+      "score": "0-0",
+      "decisions": 6,
+      "innovations": 0,
+      "events": 4
+    },
+    {
+      "match_id": 3,
+      "mode": "pressing_adaptatif",
+      "score": "0-0",
+      "decisions": 6,
+      "innovations": 0,
+      "events": 5
+    }
+  ],
+  "total_decisions": 12,
+  "innovations_discovered": [],
+  "performance_insights": "Session 5: 2 matchs, 12 décisions, 0 innovations testées."
+}
