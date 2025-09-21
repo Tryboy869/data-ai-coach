@@ -1,0 +1,132 @@
+{
+  "Attaque Éclair": {
+    "total_impact": -30,
+    "times_tried": 1,
+    "effectiveness": -30.0
+  },
+  "Contre-Attaque en Triangle": {
+    "total_impact": -15,
+    "times_tried": 1,
+    "effectiveness": -15.0
+  },
+  "Blocage en Croix": {
+    "total_impact": 15,
+    "times_tried": 1,
+    "effectiveness": 15.0
+  },
+  "Défense en Rotation": {
+    "total_impact": 30,
+    "times_tried": 1,
+    "effectiveness": 30.0
+  },
+  "Contour Extérieur": {
+    "total_impact": 30,
+    "times_tried": 1,
+    "effectiveness": 30.0
+  },
+  "Décalage Asymétrique": {
+    "total_impact": -60,
+    "times_tried": 1,
+    "effectiveness": -60.0
+  },
+  "Rempart Éclair": {
+    "total_impact": -15,
+    "times_tried": 1,
+    "effectiveness": -15.0
+  },
+  "Cône Dynamique": {
+    "total_impact": 0,
+    "times_tried": 2,
+    "effectiveness": 0.0
+  },
+  "Tornade Intérieure": {
+    "total_impact": -30,
+    "times_tried": 1,
+    "effectiveness": -30.0
+  },
+  "Rempart Dynamique": {
+    "total_impact": 0,
+    "times_tried": 1,
+    "effectiveness": 0.0
+  },
+  "Triangle Offensif": {
+    "total_impact": 15,
+    "times_tried": 1,
+    "effectiveness": 15.0
+  },
+  "Contrepied Rapide": {
+    "total_impact": -30,
+    "times_tried": 1,
+    "effectiveness": -30.0
+  },
+  "Coup de Fouet": {
+    "total_impact": 0,
+    "times_tried": 1,
+    "effectiveness": 0.0
+  },
+  "Déséquilibre Latéral": {
+    "total_impact": 0,
+    "times_tried": 1,
+    "effectiveness": 0.0
+  },
+  "Roue Libérée": {
+    "total_impact": -30,
+    "times_tried": 1,
+    "effectiveness": -30.0
+  },
+  "Décalage en Zigzag": {
+    "total_impact": 0,
+    "times_tried": 1,
+    "effectiveness": 0.0
+  },
+  "Pince Double": {
+    "total_impact": 30,
+    "times_tried": 1,
+    "effectiveness": 30.0
+  },
+  "Tunnel Central": {
+    "total_impact": -30,
+    "times_tried": 1,
+    "effectiveness": -30.0
+  },
+  "Blocage en Triangle": {
+    "total_impact": -15,
+    "times_tried": 1,
+    "effectiveness": -15.0
+  },
+  "Contre-Pince": {
+    "total_impact": 15,
+    "times_tried": 1,
+    "effectiveness": 15.0
+  },
+  "Carré Décalé": {
+    "total_impact": 0,
+    "times_tried": 1,
+    "effectiveness": 0.0
+  },
+  "Aile Croisée": {
+    "total_impact": -15,
+    "times_tried": 1,
+    "effectiveness": -15.0
+  },
+  "Coup Double": {
+    "total_impact": -15,
+    "times_tried": 1,
+    "effectiveness": -15.0
+  },
+  "Pivotal Croisé": {
+    "total_impact": -60,
+    "times_tried": 1,
+    "effectiveness": -60.0
+  },
+  "Riposte en Onde": {
+    "total_impact": -30,
+    "times_tried": 1,
+    "effectiveness": -30.0
+  },
+  "Défense en Écho": {
+    "total_impact": 15,
+    "times_tried": 1,
+    "effectiveness": 15.0
+  }
+}
