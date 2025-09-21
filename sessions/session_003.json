@@ -1,0 +1,338 @@
+{
+  "session_id": 3,
+  "model": "llama-3.3-70b-versatile",
+  "matches": [
+    {
+      "match_id": 1,
+      "log_decisions": [
+        {
+          "minute": 0,
+          "raison": "On commence le match, on maintient l'équilibre pour tester l'adversaire et voir comment il réagit.",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 10,
+          "raison": "Le score étant nul, on maintient une approche équilibrée pour continuer à tester les défenses adverses sans prendre de risques inutiles.",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 20,
+          "raison": "Le score étant nul, on maintient une approche équilibrée pour contrôler le jeu sans prendre trop de risques.",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 30,
+          "raison": "Le score étant à égalité, on maintient une approche équilibrée pour continuer à créer des occasions tout en gardant une défense solide.",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 40,
+          "raison": "Le score est à égalité, on maintient une approche équilibrée pour ne pas prendre de risque inutile et attendre l'occasion de prendre l'avantage.",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 50,
+          "raison": "Le score étant à égalité, on maintient une approche équilibrée pour continuer à créer des occasions tout en préservant la solidité défensive.",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 60,
+          "raison": "Étant donné que le score est à égalité, on maintient l'équilibre pour créer des occasions tout en préservant la solidité défensive.",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 70,
+          "raison": "Le score étant à égalité, on augmente légèrement l'intensité pour prendre l'ascendant sans trop s'exposer.",
+          "parametres": {
+            "mentalite": "Offensive",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 80,
+          "raison": "On est à égalité, on passe en mode Équilibrée pour conserver l'énergie et attendre l'occasion de marquer",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        }
+      ],
+      "log_evenements": [
+        "0' ♟️ Coach IA: On commence le match, on maintient l'équilibre pour tester l'adversaire et voir comment il réagit.",
+        "10' ♟️ Coach IA: Le score étant nul, on maintient une approche équilibrée pour continuer à tester les défenses adverses sans prendre de risques inutiles.",
+        "20' ♟️ Coach IA: Le score étant nul, on maintient une approche équilibrée pour contrôler le jeu sans prendre trop de risques.",
+        "27' ⚽ BUT! Away. Score: 0-1",
+        "28' ⚽ BUT! Home. Score: 1-1",
+        "30' ♟️ Coach IA: Le score étant à égalité, on maintient une approche équilibrée pour continuer à créer des occasions tout en gardant une défense solide.",
+        "40' ♟️ Coach IA: Le score est à égalité, on maintient une approche équilibrée pour ne pas prendre de risque inutile et attendre l'occasion de prendre l'avantage.",
+        "50' ♟️ Coach IA: Le score étant à égalité, on maintient une approche équilibrée pour continuer à créer des occasions tout en préservant la solidité défensive.",
+        "60' ♟️ Coach IA: Étant donné que le score est à égalité, on maintient l'équilibre pour créer des occasions tout en préservant la solidité défensive.",
+        "70' ♟️ Coach IA: Le score étant à égalité, on augmente légèrement l'intensité pour prendre l'ascendant sans trop s'exposer.",
+        "73' ⚽ BUT! Home. Score: 2-1",
+        "77' ⚽ BUT! Away. Score: 2-2",
+        "80' ♟️ Coach IA: On est à égalité, on passe en mode Équilibrée pour conserver l'énergie et attendre l'occasion de marquer"
+      ],
+      "score_final": "2-2"
+    },
+    {
+      "match_id": 2,
+      "log_decisions": [
+        {
+          "minute": 0,
+          "raison": "On commence le match, on maintient une approche équilibrée pour tester l'adversaire et créer des opportunités d'attaque.",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 10,
+          "raison": "Le score étant nul, on maintient l'équilibre pour ne pas prendre de risques inutiles et continuer à explorer les possibilités d'attaque.",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 20,
+          "raison": "Le score étant à 0-0, on conserve une approche équilibrée pour continuer à créer des occasions tout en maintenant une défense solide.",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 30,
+          "raison": "On perd, on passe en Offensive pour créer des occasions et égaliser rapidement !",
+          "parametres": {
+            "mentalite": "Offensive",
+            "bloc_defensif": "Médian",
+            "rythme": "Rapide",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 40,
+          "raison": "On perd, on passe en Ultra-Offensif pour égaliser et prendre le dessus sur l'adversaire !",
+          "parametres": {
+            "mentalite": "Ultra-Offensive",
+            "bloc_defensif": "Médian",
+            "rythme": "Rapide",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 50,
+          "raison": "On perd, on accentue l'offensive pour créer des occasions d'égalisation rapidement !",
+          "parametres": {
+            "mentalite": "Ultra-Offensive",
+            "bloc_defensif": "Bas",
+            "rythme": "Rapide",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 60,
+          "raison": "Le score étant à égalité, on conserve une approche offensive pour tenter de prendre l'avantage sans trop s'exposer.",
+          "parametres": {
+            "mentalite": "Offensive",
+            "bloc_defensif": "Bas",
+            "rythme": "Rapide",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 70,
+          "raison": "Le score étant à égalité, on maintient une approche offensive pour tenter de prendre l'avantage sans prendre trop de risques.",
+          "parametres": {
+            "mentalite": "Offensive",
+            "bloc_defensif": "Médian",
+            "rythme": "Rapide",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 80,
+          "raison": "Le score étant à égalité, on maintient une approche offensive pour tenter de marquer et prendre l'avantage sans prendre trop de risques défensifs.",
+          "parametres": {
+            "mentalite": "Offensive",
+            "bloc_defensif": "Médian",
+            "rythme": "Rapide",
+            "focus_attaque": "Axe Central"
+          }
+        }
+      ],
+      "log_evenements": [
+        "0' ♟️ Coach IA: On commence le match, on maintient une approche équilibrée pour tester l'adversaire et créer des opportunités d'attaque.",
+        "10' ♟️ Coach IA: Le score étant nul, on maintient l'équilibre pour ne pas prendre de risques inutiles et continuer à explorer les possibilités d'attaque.",
+        "20' ♟️ Coach IA: Le score étant à 0-0, on conserve une approche équilibrée pour continuer à créer des occasions tout en maintenant une défense solide.",
+        "28' ⚽ BUT! Away. Score: 0-1",
+        "30' ♟️ Coach IA: On perd, on passe en Offensive pour créer des occasions et égaliser rapidement !",
+        "40' ♟️ Coach IA: On perd, on passe en Ultra-Offensif pour égaliser et prendre le dessus sur l'adversaire !",
+        "50' ♟️ Coach IA: On perd, on accentue l'offensive pour créer des occasions d'égalisation rapidement !",
+        "58' ⚽ BUT! Home. Score: 1-1",
+        "60' ♟️ Coach IA: Le score étant à égalité, on conserve une approche offensive pour tenter de prendre l'avantage sans trop s'exposer.",
+        "70' ♟️ Coach IA: Le score étant à égalité, on maintient une approche offensive pour tenter de prendre l'avantage sans prendre trop de risques.",
+        "80' ♟️ Coach IA: Le score étant à égalité, on maintient une approche offensive pour tenter de marquer et prendre l'avantage sans prendre trop de risques défensifs."
+      ],
+      "score_final": "1-1"
+    },
+    {
+      "match_id": 3,
+      "log_decisions": [
+        {
+          "minute": 0,
+          "raison": "On commence le match, on maintient l'équilibre pour tester l'adversaire et comprendre ses forces et faiblesses.",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 10,
+          "raison": "Le score étant nul, on conserve une approche équilibrée pour continuer à tester les défenses adverses sans prendre de risques excessifs.",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 20,
+          "raison": "On mène, on passe en mode prudent pour sécuriser le résultat et éviter de prendre des risques inutiles.",
+          "parametres": {
+            "mentalite": "Prudente",
+            "bloc_defensif": "Haut",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 30,
+          "raison": "On mène, on sécurise le résultat en renforçant la défense et en contrôlant le rythme pour préserver l'avantage.",
+          "parametres": {
+            "mentalite": "Prudente",
+            "bloc_defensif": "Haut",
+            "rythme": "Lent",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 40,
+          "raison": "On mène, on sécurise le résultat en restant prudent et en réduisant les espaces pour l'adversaire.",
+          "parametres": {
+            "mentalite": "Prudente",
+            "bloc_defensif": "Haut",
+            "rythme": "Lent",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 50,
+          "raison": "Le score étant à égalité, on passe en mode équilibré pour maintenir la pression sans prendre trop de risques et essayer de prendre l'avantage",
+          "parametres": {
+            "mentalite": "Équilibrée",
+            "bloc_defensif": "Médian",
+            "rythme": "Normal",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 60,
+          "raison": "On perd, on passe en Offensive pour prendre plus de risques et essayer d'égaliser !",
+          "parametres": {
+            "mentalite": "Offensive",
+            "bloc_defensif": "Bas",
+            "rythme": "Rapide",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 70,
+          "raison": "On perd, on passe en Ultra-Offensif pour tenter d'égaliser en prenant plus de risques offensifs !",
+          "parametres": {
+            "mentalite": "Ultra-Offensive",
+            "bloc_defensif": "Bas",
+            "rythme": "Rapide",
+            "focus_attaque": "Axe Central"
+          }
+        },
+        {
+          "minute": 80,
+          "raison": "On perd, on maintient l'Ultra-Offensive et on ajoute du risque en gardant le bloc défensif bas pour égaliser !",
+          "parametres": {
+            "mentalite": "Ultra-Offensive",
+            "bloc_defensif": "Bas",
+            "rythme": "Rapide",
+            "focus_attaque": "Axe Central"
+          }
+        }
+      ],
+      "log_evenements": [
+        "0' ♟️ Coach IA: On commence le match, on maintient l'équilibre pour tester l'adversaire et comprendre ses forces et faiblesses.",
+        "10' ♟️ Coach IA: Le score étant nul, on conserve une approche équilibrée pour continuer à tester les défenses adverses sans prendre de risques excessifs.",
+        "16' ⚽ BUT! Home. Score: 1-0",
+        "20' ♟️ Coach IA: On mène, on passe en mode prudent pour sécuriser le résultat et éviter de prendre des risques inutiles.",
+        "30' ♟️ Coach IA: On mène, on sécurise le résultat en renforçant la défense et en contrôlant le rythme pour préserver l'avantage.",
+        "40' ♟️ Coach IA: On mène, on sécurise le résultat en restant prudent et en réduisant les espaces pour l'adversaire.",
+        "45' ⚽ BUT! Away. Score: 1-1",
+        "50' ♟️ Coach IA: Le score étant à égalité, on passe en mode équilibré pour maintenir la pression sans prendre trop de risques et essayer de prendre l'avantage",
+        "59' ⚽ BUT! Away. Score: 1-2",
+        "60' ♟️ Coach IA: On perd, on passe en Offensive pour prendre plus de risques et essayer d'égaliser !",
+        "66' ⚽ BUT! Away. Score: 1-3",
+        "70' ♟️ Coach IA: On perd, on passe en Ultra-Offensif pour tenter d'égaliser en prenant plus de risques offensifs !",
+        "74' ⚽ BUT! Home. Score: 2-3",
+        "80' ♟️ Coach IA: On perd, on maintient l'Ultra-Offensive et on ajoute du risque en gardant le bloc défensif bas pour égaliser !"
+      ],
+      "score_final": "2-3"
+    }
+  ]
+}
