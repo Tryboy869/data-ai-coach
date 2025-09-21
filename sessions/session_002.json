@@ -1,0 +1,243 @@
+{
+  "session_id": 2,
+  "model": "llama-3.3-70b-versatile",
+  "matches": [
+    {
+      "match_id": 1,
+      "mode": "pressing_adaptatif",
+      "decisions_log": [
+        {
+          "action": "INNOVATION",
+          "details": "Attaque Éclair",
+          "raison": "Utilisation d'une attaque rapide et ciblée pour profiter de la défense adverse encore en phase de réorganisation au début du match",
+          "innovation_score": 8,
+          "minute": 0,
+          "impact_mesuré (Δ momentum)": -30
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Contre-Attaque en Triangle",
+          "raison": "Étant donné le score défavorable (0-2) et le momentum négatif (-30), il est temps de passer à une tactique défensive solide mais avec une touche d'audace pour créer des occasions de contre-attaques. Le 'Contre-Attaque en Triangle' permettra de renforcer la défense tout en créant de triangles offensifs pour surprendre l'adversaire avec des passes rapides et des mouvements stratégiques.",
+          "innovation_score": 8,
+          "minute": 10,
+          "impact_mesuré (Δ momentum)": -15
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Blocage en Croix",
+          "raison": "Étant donné la situation défavorable (0-3 à la 20e minute) et le momentum négatif (-45), il est essentiel de changer radicalement notre approche. Puisque les tactiques précédentes (Contre-Attaque en Triangle et Attaque Éclair) n'ont pas fonctionné, nous devons explorer de nouvelles stratégies pour retrouver notre élan. Le 'Blocage en Croix' implique une approche défensive solide qui pourrait nous aider à stopper l'hémorragie et à reconstruire notre équipe. Cette tactique permettra également à nos joueurs de se ressourcer et de préparer une contre-attaque plus efficace, en exploitant les faiblesses potentielles de l'adversaire.",
+          "innovation_score": 8,
+          "minute": 20,
+          "impact_mesuré (Δ momentum)": 15
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Défense en Rotation",
+          "raison": "Étant donné que les tactiques précédentes telles que l'Attaque Éclair et la Contre-Attaque en Triangle ont échoué (avec des efficacités négatives), il est crucial de changer notre approche. La situation actuelle avec un score de 1-3 et un momentum défavorable de -30 nécessite une réaction défensive solide pour stopper l'hémorragie. La 'Défense en Rotation' pourrait ajouter de la flexibilité et de la profondeur à notre système défensif, permettant ainsi de répondre aux attaques adverses de manière plus efficace et de créer des opportunités de contre-attaques rapides une fois que le ballon est récupéré.",
+          "innovation_score": 8,
+          "minute": 30,
+          "impact_mesuré (Δ momentum)": 30
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Contour Extérieur",
+          "raison": "Étant donné que la défense en rotation a montré une certaine efficacité (30,0) et considérant que les blocages en croix ont eu des résultats mitigés (15,0 d'efficacité mais classés comme inefficaces), une approche innovante pourrait être de combiner la fluidité défensive avec une pression offensive ciblée. Le 'Contour Extérieur' implique d'utiliser les ailes pour étirer la défense adverse tout en maintenant une rotation défensive pour anticiper et contrer les attaques adverses, évitant ainsi les erreurs passées comme l'Attaque Éclair qui a montré une faible efficacité (-30,0).",
+          "innovation_score": 8,
+          "minute": 40,
+          "impact_mesuré (Δ momentum)": 30
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Décalage Asymétrique",
+          "raison": "Cette tactique exploite les faiblesses adverses en créant des déséquilibres asymétriques sur le terrain, tout en s'appuyant sur l'efficacité précédente de la 'Défense en Rotation' et du 'Contour Extérieur' pour maintenir la pression et la stabilité défensive. Le score actuel (5-3) et le momentum (30) nous permettent d'essayer une approche plus audacieuse pour accroître notre avance.",
+          "innovation_score": 8,
+          "minute": 50,
+          "impact_mesuré (Δ momentum)": -60
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Rempart Éclair",
+          "raison": "Compte tenu de la situation actuelle avec un score défavorable (5-7) et un momentum négatif (-30), il est essentiel de rétablir l'équilibre du match. La 'Défense en Rotation' et le 'Contour Extérieur', deux des tactiques les plus efficaces, pourraient être combinés avec une approche offensive rapide pour créer une pression constante sur l'adversaire. 'Rempart Éclair' combine ces éléments en créant un front de défense solide qui peut rapidement se transformer en contre-attaque éclair, exploitant les points faibles de l'adversaire tout en protégeant notre propre but.",
+          "innovation_score": 8,
+          "minute": 60,
+          "impact_mesuré (Δ momentum)": -15
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Cône Dynamique",
+          "raison": "Étant donné la situation actuelle avec un score défavorable (5-8) et un momentum négatif (-45), il est essentiel de proposer une tactique qui permet une certaine agressivité tout en sécurisant la défense. La 'Cône Dynamique' combine des principes de pression élevée sur le ballon, comme dans une défense en rotation, mais avec une approche plus fluide et adaptable qui peut se refermer rapidement comme un cône, limitant les options d'attaque de l'adversaire tout en offrant des opportunités de contre-attaque rapides.",
+          "innovation_score": 8,
+          "minute": 70,
+          "impact_mesuré (Δ momentum)": -15
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Tornade Intérieure",
+          "raison": "Étant donné le momentum négatif et le score défavorable, il est temps de prendre un risque calculé en proposant une tactique qui combine la solidité défensive avec une offensive surprise. La 'Tornade Intérieure' consiste à créer un mouvement de rotation offensif autour de la zone de penalty adverse, tirant parti de la faiblesse de l'adversaire dans les espaces étroits. Cela s'inspire de l'efficacité de la 'Défense en Rotation' tout en intégrant l'esprit offensif nécessaire pour renverser le score.",
+          "innovation_score": 8,
+          "minute": 80,
+          "impact_mesuré (Δ momentum)": -30
+        }
+      ],
+      "score_final": "5-11"
+    },
+    {
+      "match_id": 2,
+      "mode": "asymetrie_calculée",
+      "decisions_log": [
+        {
+          "action": "INNOVATION",
+          "details": "Rempart Dynamique",
+          "raison": "La situation actuelle nécessite une approche équilibrée. Étant donné l'efficacité de la Défense en Rotation et du Contour Extérieur, je propose une tactique qui combine la solide défense avec une mobilité accrue pour créer des opportunités offensives. Le Rempart Dynamique vise à solidifier notre défense tout en préparant des contre-attaques rapides et bien coordonnées, évitant ainsi les erreurs passées comme l'Attaque Éclair qui s'est avérée peu efficace.",
+          "innovation_score": 8,
+          "minute": 0,
+          "impact_mesuré (Δ momentum)": 0
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Triangle Offensif",
+          "raison": "Compte tenu du score égalisé et du momentum neutre, il est crucial de prendre l'initiative et de créer des opportunités de but. Le Triangle Offensif permet de désorganiser la défense adverse en créant des décalages et des espaces pour les joueurs offensifs. Cette tactique s'appuie sur les principes de la Défense en Rotation et du Contour Extérieur, avec une approche plus proactive pour mettre pression sur l'adversaire.",
+          "innovation_score": 8,
+          "minute": 10,
+          "impact_mesuré (Δ momentum)": 15
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Contrepied Rapide",
+          "raison": "Étant donné que le score est de 3-2 en notre faveur et que nous avons un momentum de 15, il est logique de maintenir la pression sur l'adversaire tout en exploitant les espaces laissés vacants. La 'Défense en Rotation' et le 'Contour Extérieur' ont montré leur efficacité à 30%, nous allons donc capitaliser sur ces succès en combinant une approche offensive avec une touche de défense proactive. Le 'Contrepied Rapide' permettra de surprendre l'adversaire tout en étant vigilant aux contre-attaques, évitant ainsi les pièges des tactiques inefficaces comme l'Attaque Éclair qui s'est avérée désastreuse à -30%. Cette décision tactique sera donc à la fois innovante et éclairée par nos expériences passées.",
+          "innovation_score": 8,
+          "minute": 20,
+          "impact_mesuré (Δ momentum)": -30
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Coup de Fouet",
+          "raison": "Étant donné la situation actuelle avec un score défavorable (3-4) et un momentum négatif (-15), il est essentiel de changer le cours du match. La 'Défense en Rotation' et le 'Contour Extérieur', deux des tactiques les plus efficaces de mon répertoire, pourraient être combinés de manière innovante pour créer un 'Coup de Fouet'. Cette approche implique une défense solide qui pivote autour d’un point central, tout en envoyant des attaquants sur les ailes pour une pression extérieure. Évitant les erreurs du passé comme le 'Contrepied Rapide' qui s'est avéré inefficace, cette nouvelle approche cherche à rétablir l'équilibre sans répéter les erreurs précédentes.",
+          "innovation_score": 8,
+          "minute": 30,
+          "impact_mesuré (Δ momentum)": 0
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Déséquilibre Latéral",
+          "raison": "Compte tenu de la défense en rotation efficace dans le passé et de la nécessité de contre-attaquer face au score défavorable (3-4), la stratégie 'Déséquilibre Latéral' vise à créer des opportunités de scoring en exploitant les flancs. Cette approche permet également d'éviter les erreurs passées comme le Tornade Intérieure et le Contrepied Rapide, qui ont montré des efficacités négatives. La situation actuelle, avec un momentum négatif (-15) et le score désavantageux, exige une approche innovante pour inverser le cours du match.",
+          "innovation_score": "8",
+          "minute": 40,
+          "impact_mesuré (Δ momentum)": 0
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Roue Libérée",
+          "raison": "Étant donné le score défavorable (3-4) et le momentum négatif (-15) à la 50e minute, il est crucial de mettre en place une stratégie qui permette une création de opportunities offensives sans sacrifier la solidité défensive. La 'Roue Libérée' vise à exploiter les espaces laissés par l'adversaire grâce à un mouvement fluide et une rotation rapide des joueurs, inspirée par l'efficacité de la 'Défense en Rotation' et du 'Contour Extérieur'. Cette approche évite les pièges des tactiques inefficaces comme la 'Tornade Intérieure' et le 'Contrepied Rapide', en promouvant la fluidité et la cohésion d'équipe.",
+          "innovation_score": 8,
+          "minute": 50,
+          "impact_mesuré (Δ momentum)": -30
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Décalage en Zigzag",
+          "raison": "La situation actuelle exige une approche offensive pour compenser le score défavorable. En inspirant de la 'Défense en Rotation' efficace et en évitant les erreurs comme le 'Contrepied Rapide', je propose un 'Décalage en Zigzag' pour créer du déséquilibre chez l'adversaire et trouver des occasions de but. Cette tactique combine mobilité et déception pour surprendre la défense adverse.",
+          "innovation_score": "8",
+          "minute": 60,
+          "impact_mesuré (Δ momentum)": 0
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Pince Double",
+          "raison": "Étant donné la situation actuelle avec un score de 3-6 et un momentum négatif, il est essentiel de trouver une tactique qui puisse inverser la tendance sans répéter les erreurs passées. La « Pince Double » combine des éléments de défense en rotation avec une approche offensive plus créative, s'inspirant ainsi des principes du Blocage en Croix mais avec une approche plus dynamique et innovante. Cette approche évite les tactiques inefficaces comme le Contrepied Rapide et le Décalage Asymétrique tout en se basant sur les apprentissages précédents pour proposer une stratégie novatrice.",
+          "innovation_score": 8,
+          "minute": 70,
+          "impact_mesuré (Δ momentum)": 30
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Tunnel Central",
+          "raison": "La situation actuelle nécessite une approche offensive pour inverser le momentum négatif. En inspirant des tactiques efficaces comme la Défense en Rotation et la Pince Double, nous pouvons créer un espace central pour l'attaque en utilisant un 'Tunnel Central'. Cette tactique profite du fait que les joueurs adverses sont souvent positionnés sur les côtés en raison de notre utilisation précédente du Contour Extérieur. En évitant les erreurs passées comme le Contrepied Rapide et le Décalage Asymétrique, nous concentrons nos efforts sur la création d'opportunités de but en exploitant le centre du terrain.",
+          "innovation_score": 8,
+          "minute": 80,
+          "impact_mesuré (Δ momentum)": -30
+        }
+      ],
+      "score_final": "6-9"
+    },
+    {
+      "match_id": 3,
+      "mode": "pressing_adaptatif",
+      "decisions_log": [
+        {
+          "action": "INNOVATION",
+          "details": "Blocage en Triangle",
+          "raison": "La situation actuelle nécessite une approche défensive solide tout en conservant une menace offensive. En s'inspirant des tactiques efficaces comme la Défense en Rotation et le Contour Extérieur, la nouvelle tactique 'Blocage en Triangle' combine la sécurité défensive avec des possibilités de contre-attaque rapides. Évitant les erreurs du passé comme la Roue Libérée et le Tunnel Central, cette approche vise à renforcer la défense tout en maintenant une pression constante sur l'adversaire.",
+          "innovation_score": 8,
+          "minute": 0,
+          "impact_mesuré (Δ momentum)": -15
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Contre-Pince",
+          "raison": "La situation actuelle nécessite une réponse offensive pour contre-attaquer après le blocage en triangle. En m'inspirant de la Pince Double, une tactique efficace, je propose une Contre-Pince pour créer des opportunités de contre-attaque et prendre l'adversaire par surprise, tout en évitant les erreurs passées comme le Décalage Asymétrique",
+          "innovation_score": 8,
+          "minute": 10,
+          "impact_mesuré (Δ momentum)": 15
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Carré Décalé",
+          "raison": "Compte tenu de la situation actuelle (1-1 à la 20e minute) et du momentum neutre, il est crucial de trouver un équilibre entre l'attaque et la défense. En utilisant le concept de 'Carré Décalé', nous combinons l'efficacité de la défense en rotation (30.0) avec l'agressivité d'une formation qui peut créer des opportunités de contre-attaque. Ce choix tactique évite les erreurs passées (Roue Libérée, Tunnel Central, Décalage Asymétrique) tout en proposant une approche neuve qui n'a pas été utilisée dans le match (différente de Blocage en Triangle et Contre-Pince).",
+          "innovation_score": 8,
+          "minute": 20,
+          "impact_mesuré (Δ momentum)": 0
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Cône Dynamique",
+          "raison": "En considérant la situation actuelle où le score est à égalité (1-1) et que le momentum est neutre (0), il est important de créer une opportunité de rupture. La 'Défense en Rotation' et le 'Contour Extérieur', ayant montré leur efficacité, m'inspirent à créer un système qui combine la mobilité défensive avec une approche offensive ciblée. Le 'Cône Dynamique' consisterait à faire basculer rapidement les défenseurs sur les côtés, créant ainsi des espaces pour les attaquants qui pourraient exploiter les flancs adverses. Cela nécessite une coordination et une communication extrêmes entre les joueurs, mais offre un potentiel élevé pour créer des occasions de but.",
+          "innovation_score": "8",
+          "minute": 30,
+          "impact_mesuré (Δ momentum)": 15
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Aile Croisée",
+          "raison": "Étant donné le score serré (4-3) et le momentum actuel (15), il est crucial de maintenir la pression mais également d'adapter notre approche pour exploiter les faiblesses de l'adversaire. L'Aile Croisée propose de déplacer rapidement les joueurs de l'aile vers l'intérieur pour créer des opportunités de jeu dans les espaces centraux, tout en maintenant une présence externe pour étirer la défense adverse. Cette tactique est innovante car elle combine des éléments de Contour Extérieur (30% d'efficacité) avec la mobilité et la surprise d'un changement de position, évitant ainsi les pièges des tactiques inefficaces comme le Tunnel Central.",
+          "innovation_score": 8,
+          "minute": 40,
+          "impact_mesuré (Δ momentum)": -15
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Coup Double",
+          "raison": "En considérant la situation actuelle avec un score égal et un momentum neutre, une approche qui combine mobilité et surprise est nécessaire. Inspiré par les tactiques efficaces telles que la Défense en Rotation et la Pince Double, 'Coup Double' vise à créer une confusion chez l'adversaire en utilisant un décalage asymétrique corrigé pour éviter les erreurs passées, et en lançant des attaques sur deux fronts, tout en maintenant une défense flexible.",
+          "innovation_score": 8,
+          "minute": 50,
+          "impact_mesuré (Δ momentum)": -15
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Pivotal Croisé",
+          "raison": "La situation actuelle nécessite une approche audacieuse pour inverser le momentum négatif (-15). En combinant les principes de Contour Extérieur (efficacité de 30%) avec une rotation dynamique des joueurs pour créer des angles d'attaque inattendus, 'Pivotal Croisé' vise à surprendre l'adversaire et générer des occasions de but. Cette tactique innove en introduisant une mobilité et une flexibilité accrues, tout en évitant les erreurs du passé comme le 'Roue Libérée' et le 'Tunnel Central',",
+          "innovation_score": 8,
+          "minute": 60,
+          "impact_mesuré (Δ momentum)": -60
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Riposte en Onde",
+          "raison": "La situation actuelle nécessite une approche audacieuse pour renverser le momentum. En s'inspirant des tactiques efficaces comme la Défense en Rotation et le Contour Extérieur, la Riposte en Onde vise à créer des opportunités de contre-attaques rapides et imprévisibles, tout en évitant les erreurs du passé comme le Tunnel Central et le Pivotal Croisé.",
+          "innovation_score": 8,
+          "minute": 70,
+          "impact_mesuré (Δ momentum)": -30
+        },
+        {
+          "action": "INNOVATION",
+          "details": "Défense en Écho",
+          "raison": "Utiliser les enseignements de la Défense en Rotation efficace pour créer un système défensif flexible qui réagit aux mouvements de l'adversaire, tout en évitant les erreurs passées comme le Riposte en Onde et en intégrant des éléments de Contour Extérieur pour une couverture plus large",
+          "innovation_score": 8,
+          "minute": 80,
+          "impact_mesuré (Δ momentum)": 15
+        }
+      ],
+      "score_final": "5-11"
+    }
+  ]
+}
